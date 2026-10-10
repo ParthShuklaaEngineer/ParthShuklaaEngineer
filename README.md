@@ -1,112 +1,115 @@
-# Hi there 👋 I'm Parth Shukla
+# 𝔓𝔞𝔯𝔱𝔥 𝔖𝔥𝔲𝔨𝔩𝔞
 
-## 🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast
+<div align="center">
 
-Welcome to my GitHub! I'm passionate about building scalable applications, learning new technologies, and contributing to the developer community.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Threat+Hunting+Enthusiast;Blue+Team+%7C+Red+Team+Learner;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+## 🔐 About Me
+
+I’m Parth Shukla, a cybersecurity student passionate about digital defense, ethical hacking, Linux, networking, and security research. I enjoy learning how systems work, finding weaknesses before attackers do, and building strong security habits through CTFs, labs, and hands-on practice.
+
+- 🔍 Interested in: Penetration Testing, Web Security, Network Security, Malware Analysis, OSINT
+- 🧠 Learning: Linux internals, networking, vulnerability assessment, threat modeling, security tools
+- 🏆 Goal: Build a strong foundation in cybersecurity and contribute to security-focused projects
+- 📚 Current focus: CTFs, security labs, scripting, and practical attack/defense workflows
+- 📫 Reach me: parthshuklaa072@gmail.com
 
 ---
 
-## 💼 About Me
+## 🛠️ Security Toolkit
 
-- 🔭 I'm currently working on **innovative projects** that solve real-world problems
-- 🌱 I'm currently learning **advanced system design, cloud architecture, and modern frameworks**
-- 👯 I'm looking to collaborate on **open-source projects** and **meaningful tech initiatives**
-- 💬 Ask me about **full-stack development, debugging strategies, or tech trends**
-- 📫 How to reach me: **[Connect on LinkedIn](https://linkedin.com)** | **[Email me](mailto:your-email@example.com)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love turning complex problems into elegant solutions!**
+### Operating Systems & Environments
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Core Skills
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-1F6FEB?style=for-the-badge&logo=network&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Security Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-3D4D6A?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚨 What I’m Learning
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+- 🧪 CTF challenge solving and writeups
+- 🌐 Networking fundamentals and packet analysis
+- 🛡️ Web application security and OWASP Top 10
+- 🐚 Linux forensics and exploitation basics
+- 🔍 Reconnaissance, enumeration, and vulnerability discovery
+- 💻 Scripting for automation and tooling
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParthShuklaaEngineer&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthShuklaaEngineer&layout=compact&theme=radical)
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParthShuklaaEngineer&show_icons=true&theme=radical&title_color=00F5D4&icon_color=00F5D4&text_color=F8F8F2&bg_color=0d1117)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthShuklaaEngineer&layout=compact&theme=radical&title_color=00F5D4&text_color=F8F8F2&bg_color=0d1117)
 
-## 🎯 Featured Projects
-
-### 📌 Project 1: [Project Name](https://github.com/ParthShuklaaEngineer/project-name)
-Description of your awesome project - what problem does it solve? Built with React, Node.js, and MongoDB.
-
-### 📌 Project 2: [Project Name](https://github.com/ParthShuklaaEngineer/project-name)
-Another amazing project showcasing your skills. Features include real-time updates, authentication, and more.
-
-### 📌 Project 3: [Project Name](https://github.com/ParthShuklaaEngineer/project-name)
-An innovative solution for [problem]. Technologies used: Next.js, TypeScript, Tailwind CSS.
+</div>
 
 ---
 
-## 🌟 What I'm Good At
+## 🧩 Featured Security Mindset
 
-- ✅ Building responsive, user-friendly web applications
-- ✅ Designing scalable backend systems
-- ✅ Problem-solving and debugging
-- ✅ Collaborating with teams
-- ✅ Writing clean, maintainable code
-- ✅ Learning new technologies quickly
+### 💡 I enjoy:
+- Breaking down complex systems to understand them deeply
+- Practicing defense through offensive thinking
+- Learning by doing: labs, CTFs, simulations, and challenge-based study
+- Exploring real-world security issues and understanding their impact
 
----
-
-## 📚 Latest Blog Posts or Learning
-
-- 📖 Reading about microservices architecture
-- 🎓 Exploring AI/ML integration in web apps
-- 💡 Building personal projects to strengthen fundamentals
-
----
-
-## 🤝 Let's Connect!
-
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com)
-- **Twitter/X**: [@YourHandle](https://twitter.com)
-- **Portfolio**: [Your Website](https://yourportfolio.com)
-- **Email**: your-email@example.com
+### 🎯 My focus areas:
+- Web application security
+- Network security
+- Cryptography basics
+- Linux administration & hardening
+- Vulnerability assessment
+- Threat intelligence fundamentals
 
 ---
 
-## 💝 Support
+## 🐾 CTF / Lab Journey
 
-If you find my projects helpful, please consider:
-- ⭐ Starring my repositories
-- 🔄 Sharing with others
-- 🐛 Opening issues with feedback
-- 🤝 Contributing to my projects
+I’m currently building my cybersecurity foundation with hands-on challenges and guided labs. I like solving problems that require curiosity, logic, patience, and practical understanding of systems.
+
+- Practice on real attack-defense scenarios
+- Learn from writeups, labs, and exploit walkthroughs
+- Improve command-line and scripting fluency
+- Build repeatable processes for reconnaissance and analysis
 
 ---
+
+## 🤝 Connect With Me
+
+- 📧 Email: parthshuklaa072@gmail.com
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com)
+- 🐙 GitHub: [ParthShuklaaEngineer](https://github.com/ParthShuklaaEngineer)
+- 🧪 TryHackMe / Hack The Box: [Coming soon](#)
+
+---
+
+## 🌟 Closing Note
+
+“Security is not a product, it is a process.”
+
+I’m on the path to becoming a stronger cybersecurity professional, one challenge at a time. I’m open to learning, collaboration, and opportunities that help me grow in this field.
 
 <div align="center">
 
-### Thanks for visiting! 🙌
-
-**Made with ❤️ by Parth Shukla**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:00B8D9&height=120&text=Stay%20Curious%20%7C%20Stay%20Secure&fontSize=36" alt="banner" />
 
 </div>
